@@ -5,22 +5,38 @@ VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "00-01-链表", "00-01-链表\00-01-链表.vcxproj", "{E62C0DB6-BB3B-4FA5-A14D-2CAC3CA38BEE}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02-03-数组中重复的数字", "02-03-数组中重复的数字\02-03-数组中重复的数字.vcxproj", "{084A468C-1E1E-494C-8D23-0C2D7CD34917}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
 		Debug|x64 = Debug|x64
 		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
 		Release|x64 = Release|x64
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E62C0DB6-BB3B-4FA5-A14D-2CAC3CA38BEE}.Debug|Any CPU.ActiveCfg = Debug|Win32
 		{E62C0DB6-BB3B-4FA5-A14D-2CAC3CA38BEE}.Debug|x64.ActiveCfg = Debug|x64
 		{E62C0DB6-BB3B-4FA5-A14D-2CAC3CA38BEE}.Debug|x64.Build.0 = Debug|x64
 		{E62C0DB6-BB3B-4FA5-A14D-2CAC3CA38BEE}.Debug|x86.ActiveCfg = Debug|Win32
 		{E62C0DB6-BB3B-4FA5-A14D-2CAC3CA38BEE}.Debug|x86.Build.0 = Debug|Win32
+		{E62C0DB6-BB3B-4FA5-A14D-2CAC3CA38BEE}.Release|Any CPU.ActiveCfg = Release|Win32
 		{E62C0DB6-BB3B-4FA5-A14D-2CAC3CA38BEE}.Release|x64.ActiveCfg = Release|x64
 		{E62C0DB6-BB3B-4FA5-A14D-2CAC3CA38BEE}.Release|x64.Build.0 = Release|x64
 		{E62C0DB6-BB3B-4FA5-A14D-2CAC3CA38BEE}.Release|x86.ActiveCfg = Release|Win32
 		{E62C0DB6-BB3B-4FA5-A14D-2CAC3CA38BEE}.Release|x86.Build.0 = Release|Win32
+		{084A468C-1E1E-494C-8D23-0C2D7CD34917}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{084A468C-1E1E-494C-8D23-0C2D7CD34917}.Debug|x64.ActiveCfg = Debug|x64
+		{084A468C-1E1E-494C-8D23-0C2D7CD34917}.Debug|x64.Build.0 = Debug|x64
+		{084A468C-1E1E-494C-8D23-0C2D7CD34917}.Debug|x86.ActiveCfg = Debug|Win32
+		{084A468C-1E1E-494C-8D23-0C2D7CD34917}.Debug|x86.Build.0 = Debug|Win32
+		{084A468C-1E1E-494C-8D23-0C2D7CD34917}.Release|Any CPU.ActiveCfg = Release|Win32
+		{084A468C-1E1E-494C-8D23-0C2D7CD34917}.Release|x64.ActiveCfg = Release|x64
+		{084A468C-1E1E-494C-8D23-0C2D7CD34917}.Release|x64.Build.0 = Release|x64
+		{084A468C-1E1E-494C-8D23-0C2D7CD34917}.Release|x86.ActiveCfg = Release|Win32
+		{084A468C-1E1E-494C-8D23-0C2D7CD34917}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
