@@ -13,6 +13,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02-05-替换空格", "02-05
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02-06-从头到尾打印链表", "02-06-从头到尾打印链表\02-06-从头到尾打印链表.vcxproj", "{A2FC7CC0-1D60-40B3-BC6D-FC90C8BAA863}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02-07-重建二叉树---", "02-07-重建二叉树\02-07-重建二叉树.vcxproj", "{A2475EB4-5D2A-4070-89D3-2A488F81C3FE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02-08-二叉树的下一个节点", "02-08-二叉树的下一个节点\02-08-二叉树的下一个节点.vcxproj", "{8D65EE3D-8A18-4489-9AAE-BEF449053F3C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -73,6 +77,26 @@ Global
 		{A2FC7CC0-1D60-40B3-BC6D-FC90C8BAA863}.Release|x64.Build.0 = Release|x64
 		{A2FC7CC0-1D60-40B3-BC6D-FC90C8BAA863}.Release|x86.ActiveCfg = Release|Win32
 		{A2FC7CC0-1D60-40B3-BC6D-FC90C8BAA863}.Release|x86.Build.0 = Release|Win32
+		{A2475EB4-5D2A-4070-89D3-2A488F81C3FE}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{A2475EB4-5D2A-4070-89D3-2A488F81C3FE}.Debug|x64.ActiveCfg = Debug|x64
+		{A2475EB4-5D2A-4070-89D3-2A488F81C3FE}.Debug|x64.Build.0 = Debug|x64
+		{A2475EB4-5D2A-4070-89D3-2A488F81C3FE}.Debug|x86.ActiveCfg = Debug|Win32
+		{A2475EB4-5D2A-4070-89D3-2A488F81C3FE}.Debug|x86.Build.0 = Debug|Win32
+		{A2475EB4-5D2A-4070-89D3-2A488F81C3FE}.Release|Any CPU.ActiveCfg = Release|Win32
+		{A2475EB4-5D2A-4070-89D3-2A488F81C3FE}.Release|x64.ActiveCfg = Release|x64
+		{A2475EB4-5D2A-4070-89D3-2A488F81C3FE}.Release|x64.Build.0 = Release|x64
+		{A2475EB4-5D2A-4070-89D3-2A488F81C3FE}.Release|x86.ActiveCfg = Release|Win32
+		{A2475EB4-5D2A-4070-89D3-2A488F81C3FE}.Release|x86.Build.0 = Release|Win32
+		{8D65EE3D-8A18-4489-9AAE-BEF449053F3C}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{8D65EE3D-8A18-4489-9AAE-BEF449053F3C}.Debug|x64.ActiveCfg = Debug|x64
+		{8D65EE3D-8A18-4489-9AAE-BEF449053F3C}.Debug|x64.Build.0 = Debug|x64
+		{8D65EE3D-8A18-4489-9AAE-BEF449053F3C}.Debug|x86.ActiveCfg = Debug|Win32
+		{8D65EE3D-8A18-4489-9AAE-BEF449053F3C}.Debug|x86.Build.0 = Debug|Win32
+		{8D65EE3D-8A18-4489-9AAE-BEF449053F3C}.Release|Any CPU.ActiveCfg = Release|Win32
+		{8D65EE3D-8A18-4489-9AAE-BEF449053F3C}.Release|x64.ActiveCfg = Release|x64
+		{8D65EE3D-8A18-4489-9AAE-BEF449053F3C}.Release|x64.Build.0 = Release|x64
+		{8D65EE3D-8A18-4489-9AAE-BEF449053F3C}.Release|x86.ActiveCfg = Release|Win32
+		{8D65EE3D-8A18-4489-9AAE-BEF449053F3C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
