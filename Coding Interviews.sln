@@ -19,6 +19,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02-08-二叉树的下一个
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02-09-用两个栈实现队列", "02-09-用两个栈实现队列\02-09-用两个栈实现队列.vcxproj", "{72A76C78-8426-4A7B-BFF3-33071D5F4485}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02-10-斐波那契数列", "02-10-斐波那契数列\02-10-斐波那契数列.vcxproj", "{AF8A52F2-5059-46AB-9F95-8B3D123BA1CB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -109,6 +111,16 @@ Global
 		{72A76C78-8426-4A7B-BFF3-33071D5F4485}.Release|x64.Build.0 = Release|x64
 		{72A76C78-8426-4A7B-BFF3-33071D5F4485}.Release|x86.ActiveCfg = Release|Win32
 		{72A76C78-8426-4A7B-BFF3-33071D5F4485}.Release|x86.Build.0 = Release|Win32
+		{AF8A52F2-5059-46AB-9F95-8B3D123BA1CB}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{AF8A52F2-5059-46AB-9F95-8B3D123BA1CB}.Debug|x64.ActiveCfg = Debug|x64
+		{AF8A52F2-5059-46AB-9F95-8B3D123BA1CB}.Debug|x64.Build.0 = Debug|x64
+		{AF8A52F2-5059-46AB-9F95-8B3D123BA1CB}.Debug|x86.ActiveCfg = Debug|Win32
+		{AF8A52F2-5059-46AB-9F95-8B3D123BA1CB}.Debug|x86.Build.0 = Debug|Win32
+		{AF8A52F2-5059-46AB-9F95-8B3D123BA1CB}.Release|Any CPU.ActiveCfg = Release|Win32
+		{AF8A52F2-5059-46AB-9F95-8B3D123BA1CB}.Release|x64.ActiveCfg = Release|x64
+		{AF8A52F2-5059-46AB-9F95-8B3D123BA1CB}.Release|x64.Build.0 = Release|x64
+		{AF8A52F2-5059-46AB-9F95-8B3D123BA1CB}.Release|x86.ActiveCfg = Release|Win32
+		{AF8A52F2-5059-46AB-9F95-8B3D123BA1CB}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
