@@ -21,6 +21,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02-09-用两个栈实现队
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02-10-斐波那契数列", "02-10-斐波那契数列\02-10-斐波那契数列.vcxproj", "{AF8A52F2-5059-46AB-9F95-8B3D123BA1CB}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02-11-旋转数组的最小数字", "02-11-旋转数组的最小数字\02-11-旋转数组的最小数字.vcxproj", "{C032DD1C-508E-4E86-883F-384F75AFF7FA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -121,6 +123,16 @@ Global
 		{AF8A52F2-5059-46AB-9F95-8B3D123BA1CB}.Release|x64.Build.0 = Release|x64
 		{AF8A52F2-5059-46AB-9F95-8B3D123BA1CB}.Release|x86.ActiveCfg = Release|Win32
 		{AF8A52F2-5059-46AB-9F95-8B3D123BA1CB}.Release|x86.Build.0 = Release|Win32
+		{C032DD1C-508E-4E86-883F-384F75AFF7FA}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{C032DD1C-508E-4E86-883F-384F75AFF7FA}.Debug|x64.ActiveCfg = Debug|x64
+		{C032DD1C-508E-4E86-883F-384F75AFF7FA}.Debug|x64.Build.0 = Debug|x64
+		{C032DD1C-508E-4E86-883F-384F75AFF7FA}.Debug|x86.ActiveCfg = Debug|Win32
+		{C032DD1C-508E-4E86-883F-384F75AFF7FA}.Debug|x86.Build.0 = Debug|Win32
+		{C032DD1C-508E-4E86-883F-384F75AFF7FA}.Release|Any CPU.ActiveCfg = Release|Win32
+		{C032DD1C-508E-4E86-883F-384F75AFF7FA}.Release|x64.ActiveCfg = Release|x64
+		{C032DD1C-508E-4E86-883F-384F75AFF7FA}.Release|x64.Build.0 = Release|x64
+		{C032DD1C-508E-4E86-883F-384F75AFF7FA}.Release|x86.ActiveCfg = Release|Win32
+		{C032DD1C-508E-4E86-883F-384F75AFF7FA}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
