@@ -23,6 +23,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02-10-斐波那契数列", 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02-11-旋转数组的最小数字", "02-11-旋转数组的最小数字\02-11-旋转数组的最小数字.vcxproj", "{C032DD1C-508E-4E86-883F-384F75AFF7FA}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02-12-矩阵中的路径", "02-12-矩阵中的路径\02-12-矩阵中的路径.vcxproj", "{BC7F495C-361F-465C-8CED-02F30EB577FB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -133,6 +135,16 @@ Global
 		{C032DD1C-508E-4E86-883F-384F75AFF7FA}.Release|x64.Build.0 = Release|x64
 		{C032DD1C-508E-4E86-883F-384F75AFF7FA}.Release|x86.ActiveCfg = Release|Win32
 		{C032DD1C-508E-4E86-883F-384F75AFF7FA}.Release|x86.Build.0 = Release|Win32
+		{BC7F495C-361F-465C-8CED-02F30EB577FB}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{BC7F495C-361F-465C-8CED-02F30EB577FB}.Debug|x64.ActiveCfg = Debug|x64
+		{BC7F495C-361F-465C-8CED-02F30EB577FB}.Debug|x64.Build.0 = Debug|x64
+		{BC7F495C-361F-465C-8CED-02F30EB577FB}.Debug|x86.ActiveCfg = Debug|Win32
+		{BC7F495C-361F-465C-8CED-02F30EB577FB}.Debug|x86.Build.0 = Debug|Win32
+		{BC7F495C-361F-465C-8CED-02F30EB577FB}.Release|Any CPU.ActiveCfg = Release|Win32
+		{BC7F495C-361F-465C-8CED-02F30EB577FB}.Release|x64.ActiveCfg = Release|x64
+		{BC7F495C-361F-465C-8CED-02F30EB577FB}.Release|x64.Build.0 = Release|x64
+		{BC7F495C-361F-465C-8CED-02F30EB577FB}.Release|x86.ActiveCfg = Release|Win32
+		{BC7F495C-361F-465C-8CED-02F30EB577FB}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
