@@ -37,6 +37,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02-17-打印从1到最大�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02-18-删除链表的节点", "02-18-删除链表的节点\02-18-删除链表的节点.vcxproj", "{5615B9B1-425C-484B-9FE0-9311C7FF274A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02-19-正则表达式匹配", "02-19-正则表达式匹配\02-19-正则表达式匹配.vcxproj", "{91D8B0D3-016D-4436-8963-676FE8613606}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02-20-表示数值的字符串", "02-20-表示数值的字符串\02-20-表示数值的字符串.vcxproj", "{6300CA1B-803B-449E-92B3-5A8564643BDE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -217,6 +221,26 @@ Global
 		{5615B9B1-425C-484B-9FE0-9311C7FF274A}.Release|x64.Build.0 = Release|x64
 		{5615B9B1-425C-484B-9FE0-9311C7FF274A}.Release|x86.ActiveCfg = Release|Win32
 		{5615B9B1-425C-484B-9FE0-9311C7FF274A}.Release|x86.Build.0 = Release|Win32
+		{91D8B0D3-016D-4436-8963-676FE8613606}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{91D8B0D3-016D-4436-8963-676FE8613606}.Debug|x64.ActiveCfg = Debug|x64
+		{91D8B0D3-016D-4436-8963-676FE8613606}.Debug|x64.Build.0 = Debug|x64
+		{91D8B0D3-016D-4436-8963-676FE8613606}.Debug|x86.ActiveCfg = Debug|Win32
+		{91D8B0D3-016D-4436-8963-676FE8613606}.Debug|x86.Build.0 = Debug|Win32
+		{91D8B0D3-016D-4436-8963-676FE8613606}.Release|Any CPU.ActiveCfg = Release|Win32
+		{91D8B0D3-016D-4436-8963-676FE8613606}.Release|x64.ActiveCfg = Release|x64
+		{91D8B0D3-016D-4436-8963-676FE8613606}.Release|x64.Build.0 = Release|x64
+		{91D8B0D3-016D-4436-8963-676FE8613606}.Release|x86.ActiveCfg = Release|Win32
+		{91D8B0D3-016D-4436-8963-676FE8613606}.Release|x86.Build.0 = Release|Win32
+		{6300CA1B-803B-449E-92B3-5A8564643BDE}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{6300CA1B-803B-449E-92B3-5A8564643BDE}.Debug|x64.ActiveCfg = Debug|x64
+		{6300CA1B-803B-449E-92B3-5A8564643BDE}.Debug|x64.Build.0 = Debug|x64
+		{6300CA1B-803B-449E-92B3-5A8564643BDE}.Debug|x86.ActiveCfg = Debug|Win32
+		{6300CA1B-803B-449E-92B3-5A8564643BDE}.Debug|x86.Build.0 = Debug|Win32
+		{6300CA1B-803B-449E-92B3-5A8564643BDE}.Release|Any CPU.ActiveCfg = Release|Win32
+		{6300CA1B-803B-449E-92B3-5A8564643BDE}.Release|x64.ActiveCfg = Release|x64
+		{6300CA1B-803B-449E-92B3-5A8564643BDE}.Release|x64.Build.0 = Release|x64
+		{6300CA1B-803B-449E-92B3-5A8564643BDE}.Release|x86.ActiveCfg = Release|Win32
+		{6300CA1B-803B-449E-92B3-5A8564643BDE}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
