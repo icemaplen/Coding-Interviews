@@ -47,6 +47,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02-22-链表中倒数第k�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02-23-链表中环的入口节点", "02-03-链表中环的入口节点\02-03-链表中环的入口节点.vcxproj", "{F82A0ED6-C256-4099-969E-7F6CDAA1BD4F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02-24-反转链表", "02-24-反转链表\02-24-反转链表.vcxproj", "{0A95B91C-AB2E-4B15-BEFD-F1D4A0A4E897}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -277,6 +279,16 @@ Global
 		{F82A0ED6-C256-4099-969E-7F6CDAA1BD4F}.Release|x64.Build.0 = Release|x64
 		{F82A0ED6-C256-4099-969E-7F6CDAA1BD4F}.Release|x86.ActiveCfg = Release|Win32
 		{F82A0ED6-C256-4099-969E-7F6CDAA1BD4F}.Release|x86.Build.0 = Release|Win32
+		{0A95B91C-AB2E-4B15-BEFD-F1D4A0A4E897}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{0A95B91C-AB2E-4B15-BEFD-F1D4A0A4E897}.Debug|x64.ActiveCfg = Debug|x64
+		{0A95B91C-AB2E-4B15-BEFD-F1D4A0A4E897}.Debug|x64.Build.0 = Debug|x64
+		{0A95B91C-AB2E-4B15-BEFD-F1D4A0A4E897}.Debug|x86.ActiveCfg = Debug|Win32
+		{0A95B91C-AB2E-4B15-BEFD-F1D4A0A4E897}.Debug|x86.Build.0 = Debug|Win32
+		{0A95B91C-AB2E-4B15-BEFD-F1D4A0A4E897}.Release|Any CPU.ActiveCfg = Release|Win32
+		{0A95B91C-AB2E-4B15-BEFD-F1D4A0A4E897}.Release|x64.ActiveCfg = Release|x64
+		{0A95B91C-AB2E-4B15-BEFD-F1D4A0A4E897}.Release|x64.Build.0 = Release|x64
+		{0A95B91C-AB2E-4B15-BEFD-F1D4A0A4E897}.Release|x86.ActiveCfg = Release|Win32
+		{0A95B91C-AB2E-4B15-BEFD-F1D4A0A4E897}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
