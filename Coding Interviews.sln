@@ -63,7 +63,11 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02-30-包含min函数的栈
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02-31-栈的压入、弹出序列--", "02-31-栈的压入、弹出序列\02-31-栈的压入、弹出序列.vcxproj", "{DB9D82DC-C04D-49B4-B850-58F7131F29A9}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02-32-从上到下打印二叉树", "02-32-从上到下打印二叉树\02-32-从上到下打印二叉树.vcxproj", "{428ED772-1F78-4672-A576-4F803C1D67FB}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02-32-1-从上到下打印二叉树", "02-32-从上到下打印二叉树\02-32-从上到下打印二叉树.vcxproj", "{428ED772-1F78-4672-A576-4F803C1D67FB}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02-32-2-分行从上到下打印二叉树", "00-32-2-分行从上到下打印二叉树\00-32-2-分行从上到下打印二叉树.vcxproj", "{D2469F58-43D9-41AB-A56D-50CB4294CF70}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02-32-3-之字形打印二叉树", "02-32-3-之字形打印二叉树\02-32-3-之字形打印二叉树.vcxproj", "{B30E92E0-9A83-4838-86AC-D4155545BFA1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -385,6 +389,26 @@ Global
 		{428ED772-1F78-4672-A576-4F803C1D67FB}.Release|x64.Build.0 = Release|x64
 		{428ED772-1F78-4672-A576-4F803C1D67FB}.Release|x86.ActiveCfg = Release|Win32
 		{428ED772-1F78-4672-A576-4F803C1D67FB}.Release|x86.Build.0 = Release|Win32
+		{D2469F58-43D9-41AB-A56D-50CB4294CF70}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{D2469F58-43D9-41AB-A56D-50CB4294CF70}.Debug|x64.ActiveCfg = Debug|x64
+		{D2469F58-43D9-41AB-A56D-50CB4294CF70}.Debug|x64.Build.0 = Debug|x64
+		{D2469F58-43D9-41AB-A56D-50CB4294CF70}.Debug|x86.ActiveCfg = Debug|Win32
+		{D2469F58-43D9-41AB-A56D-50CB4294CF70}.Debug|x86.Build.0 = Debug|Win32
+		{D2469F58-43D9-41AB-A56D-50CB4294CF70}.Release|Any CPU.ActiveCfg = Release|Win32
+		{D2469F58-43D9-41AB-A56D-50CB4294CF70}.Release|x64.ActiveCfg = Release|x64
+		{D2469F58-43D9-41AB-A56D-50CB4294CF70}.Release|x64.Build.0 = Release|x64
+		{D2469F58-43D9-41AB-A56D-50CB4294CF70}.Release|x86.ActiveCfg = Release|Win32
+		{D2469F58-43D9-41AB-A56D-50CB4294CF70}.Release|x86.Build.0 = Release|Win32
+		{B30E92E0-9A83-4838-86AC-D4155545BFA1}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{B30E92E0-9A83-4838-86AC-D4155545BFA1}.Debug|x64.ActiveCfg = Debug|x64
+		{B30E92E0-9A83-4838-86AC-D4155545BFA1}.Debug|x64.Build.0 = Debug|x64
+		{B30E92E0-9A83-4838-86AC-D4155545BFA1}.Debug|x86.ActiveCfg = Debug|Win32
+		{B30E92E0-9A83-4838-86AC-D4155545BFA1}.Debug|x86.Build.0 = Debug|Win32
+		{B30E92E0-9A83-4838-86AC-D4155545BFA1}.Release|Any CPU.ActiveCfg = Release|Win32
+		{B30E92E0-9A83-4838-86AC-D4155545BFA1}.Release|x64.ActiveCfg = Release|x64
+		{B30E92E0-9A83-4838-86AC-D4155545BFA1}.Release|x64.Build.0 = Release|x64
+		{B30E92E0-9A83-4838-86AC-D4155545BFA1}.Release|x86.ActiveCfg = Release|Win32
+		{B30E92E0-9A83-4838-86AC-D4155545BFA1}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
