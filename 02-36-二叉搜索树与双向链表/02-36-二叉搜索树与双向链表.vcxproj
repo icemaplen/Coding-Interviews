@@ -20,11 +20,10 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{B4CFC10A-C3DF-4C74-8EE3-E42D3E483620}</ProjectGuid>
+    <ProjectGuid>{2868DC11-7740-45DC-AF5C-DEBBF1F20B97}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>My2034二叉树中和为某一值的路径</RootNamespace>
+    <RootNamespace>My0236二叉搜索树与双向链表</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
-    <ProjectName>02-34-二叉树中和为某一值的路径</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -152,7 +151,7 @@
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="20-34-二叉树中和为某一值的路径.cpp" />
+    <ClCompile Include="02-36-二叉搜索树与双向链表.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
